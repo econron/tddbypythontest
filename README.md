@@ -1,0 +1,2 @@
+# tddbypythontest
+テスト駆動開発のpython部分を学習して、今後のAPI実装に備える
